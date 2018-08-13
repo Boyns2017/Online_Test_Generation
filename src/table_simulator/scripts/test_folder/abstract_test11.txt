@@ -1,0 +1,7 @@
+tell leg
+receivesignal
+Leg_Dropped
+human_notices
+human_close
+human_indecisive
+human_left_it
